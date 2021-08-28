@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class IsUrlDownApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads0(){
 	}
 
 }
